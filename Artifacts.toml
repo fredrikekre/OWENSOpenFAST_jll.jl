@@ -1,0 +1,579 @@
+[[OWENSOpenFAST]]
+arch = "aarch64"
+git-tree-sha1 = "a800771845dbffd8b132ec45e33d17ceb75c69ac"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "200d844e444fd6969da2f7c96d24332adc8b3646720d648427f63f5bc0cdbbb7"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[OWENSOpenFAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b77bec18ccadcff02a30b79021b53cc501ce820"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "df6afc1efa03c988ec9042f1ecadbbfbd47b9c8bb53070b9ccdeece47daf8271"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8166128be32d900c42fdd3cd8250d0a71d210230"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "2f47cdf4647a825e2f19a1fbb614e46fdf37fc20c56665046248199e3a168b1d"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "79559da6cbe0c079e203def3626392c3532f4bf3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "d34dec2deb8b745415ebbddb714f84de050362fd4f5237603f2bf9a756c859a1"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3472c43469a314cafc8379dc762a9beec2983daf"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "28c61d790d6bf4521fe67b63a3493d2ef19ce711acdfda1a22ce3d053170f77d"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ce045c09548f46c9562a82e1e5662117e9627032"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "6abef733863a47b7d7493eb046d0cce0bfc0b6f7e3d0ba6347b60dbfb151a2a9"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce98c250295f2a54c0e5c536e43c91a1af2219fd"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "92f4be087db47075d966171e5c92efd6c4599986d0a07be8b6c90502aa375747"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "615acfb07d342be76895c9f066b080a4ea607778"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "2769b76e10ee13728fbdd823b412e29ce64d663fcd7d1026ae72ccd1d5e2b2cb"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c41dfcae0ba79368ceaae9127d2c3e29fbfbad5e"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "b365e95d885b42c33971d6af0e6e04f9c4dadfa76e0b028a51ccc48563e1ac5b"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "426d1df863abf6be559389f991b491c61b0432fb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "4e554c1a4b1b1b5b9c3decc088a88d2b8ca945d00ce288cce3073a1d97669219"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d5c33d6a9e69a63b80a63ecf8fee835c33329b9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "e6a4b18b726e79ba6d0836ed69a43130597797103347df468229af8c30ae85a3"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "436813f0c05cf0dd545f001192310b1b149e6cef"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "f113b1de2138eff68bf8b9462b82c8c30532bbdea21f8f8ba3e08bb7988d186e"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6ca8bc2c23054242c7e7de07a641059b0a1a7de"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "2120e15424675c15fd96df32dcb14dc715462136cba8d4c6b620bda545e0e797"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7cde1a9a39bc2ecdeb16caa1356794a97926a098"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "6f48ae32b121c8f4d9f70e771ed54bb01ae4d04d604516180e544ec69f616115"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-musl-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb55277d56b02319a4d7e2467eacee76809bff72"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "a74882d047cca580b7602ab3acf1408b537679bcfd4f50d6cd6e96fce5788c3a"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-musl-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e695f3df9526c1e340f4abab6e440e15eb772e1"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "b0c594f1eee45d3aeaa7ea4ddef7313e3cf7490d6854bac1c128ede5d3a34c58"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-musl-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fe8e3fac89e92f27905d1f3d4739a796c6e8e4f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "72a7d6c227829a6a7bfee2b95f63a8a5ff49e0e30da34dfc2b31da37e2d06947"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-musl-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "159b5709e627406679774eb337d4e45bfcccc6ac"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "e2d3dd8b35733d365c51f94f971039f24fa6ed9b56cfd58ec6f24522a1b8fa5e"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a22985bddadb19859fb9ba3da25005690d429d01"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "4ba2e85478ea13cd4c7e0f8a1aecf40eb9ca8f04f1adacd3ec74329d6a6a4c56"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d288133522552010436a6d7dfc6619b901fb4ab"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "a7b1d792fdf7e33fe6fb2f8d4b2a8bca71dfd8b89a336b97f4680cf654872fcd"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "834a20f2b2af385190f2a0a7bc3e208288304aa0"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "6359532f60ed6e37a41934de0dd18a50102eabfd7d9d259d521b4661bba9aa3a"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "be236bfab64167e833585a48b8ba1782c6605dcf"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "ed66527e0981a4da6bd94b525e7975df820b91ce35149e9825b85d020ee6e84c"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f99f2e9316c4fb157d45c82cd8c88f387b053170"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "9ee0d62a902c08fd011391e7ee1693be2bdb9b65c2c2a5a79dca1a304c6336ba"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0624340cad9eb5518e28f3cf3ec33b2749640863"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "a601b424eda26448e2cd90e76388c8cffd7cb80cd9606cb4a61fc1e7299a6201"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee5cb4ff54c3c2187cebd381e2d2fa6e0a2031e5"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "587fab66f936c6ae42f40e335c962acf7cd1c7bb5ac11ff48b90465e1537cf9c"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ad4f78444d98ea3b953b0f2920f1a22298371303"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "e91f0e547bc43727ba1a4a301f74b993927733b46617e6766767db8b0948f654"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a981c7372a7f0c86b8beff967d5b4785289fca0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "e634a3f1fa0136c2afb6bd4a96a03215c7f9ba6cedc2f4dc11cea54c15ed36ba"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b499917251cca6bf7ad2cb25d8f32208d7b1ea9d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "4423c9836a62dbc25b9c951212bb48a73ba7101d5e12a02ef8570dc1728f3f8e"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16fbc06ae665bb12d27a71104cc1c795ec89dd92"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "5efe6b04069e05984ecb11cd3fefd1a60386db37dc2007385d6777d6471f98cd"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "13bd7877ac9febb52d988eb860ddf2775a75843b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "f8780188ec2cd7e41b56b203a20b5838d957762dfd668fbb6fdd7e7d51bd4147"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a145347df37422da9cb2da791f796cbe38ecf511"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "6a6ad244f81fa8faa832f040e03d561a69a6c9b692f788d5d78c498622af2a3f"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "c5d79853307d0c614e7ba0738d4d1afaec54dae5"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "9c3424be14fb90d7b1b1f6959db15e98525a76e6147ef6afaa08efe1645e00b5"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "a902a8fe99d9ebb961a2952c12bc7e2558450125"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "370a32cc6ed49506ca98f4ef1d8d49ab5529ed85f4dc639c045d63d80daf9697"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "a759d259cf67c5441577513e97460a6eeb896a7e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "635ab1a39d6ba06253f6633f5a0c8518edf7f9d2e9c04af53d3db5fa022416b8"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6b9da32fc0dc2b3e06abc01a76bc580ca96f2a05"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "79c6be227c45ed5ae799a3befb3538533f09d1580c0bbb60ca376c2767b126bb"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e6e43053a593f6679e937d4af4d36fc17435356a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "e65143f7f63454836abcb39fcb7f67e2303a42ca5cd9a885bd18f4947c046cea"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08aa81fa888ac164fe38a1de1765f8a5b2cc72b8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "b327d49ce5ed17096b795d5593f44fef354f8506bcc83d1d3ea2aa1238792332"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a660093b12e2de8e2eac06986542c87668604172"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "fcc43d7d4d71046c411d3001f757d9aa74ebe87b18638eee63ade22dcaa9fbb0"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2302f2d0b9430a95cd1143826911466a77354571"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "56434d99465c4f1ca690a0f052bfde8eb5a552327488cb1aec4e423492fd6211"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40e731aa229ee668f59fa694053de285aeb6d77f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "d789c648dd02ed52799c5d6b6fafa5842189468bc87168103c6263a43d553734"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c312492ca5020ae7586740329af46575a4fc8e1f"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "3bdc831aea162eb531af560ab51b68dcab87d9c2f1310947abaf0e9464d7d9f7"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f85968d29fab990c7db5ea6e94b5af4e9aff4370"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "366f7a86ccafa4d23ab44431251f51d0534be756181ba208a73fef13e036ca80"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0aa7f49c024b9a1d3cb688be1ed5a49c5d8d1b2f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "bba99b6a7abc33b7b9a429f3d2a18092a85960088d549ab121fd5ca930ca2ffa"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8f8f702b0079b4d6acef17c499a630bc0efac2e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "81e10262610abfc56de025ff27b4a47ca040a79e4161cf4eb4c4af50ba5269cd"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4486a8bf95be2c95729bd55a98f2ee53b972f028"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "ab0c1849aadc89ae2bbd1162e9c77a8acc4c9c15d641702b6331eeb99ac75dd2"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "80060f6fbd4180ec825998b9b50b3923240385ce"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "27ad84d25a9b8c3fa29e0ef8abf6395126b49ebc2661c188b20a588e2b164edd"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "bc587d7f46e386628ef4b776b1130f8f014c9f16"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "98056054c1b934a8b231d5d2224048296cbb9b60ceda07ae8e15825366a3709e"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "bd0f3e466ecbf2d3ebdf06192b239cc9ca3a3b75"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "d81121adb4deb3bad7ec177c8b6e8530f6238d1b036ee3d0b5a266ae505717a9"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "cfa5259a8ec6487c8f164e341b336a49c60c4024"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "6d96d254bcb767e1124ab8fca64045c9d7e1b3e905781be9c6d3d71af30de86a"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c1081add114537049049aec6b1906fd506588ab5"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "db0eecbb9d79cf206ef971a8be8756bfe34a8c25370b5624e6a5d24c1952ec07"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1836dfe73214052c00e727682c7492731f80e799"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "bd7169ba1a7e5b96cac82c77d4484b887a0c0203b1c3eaa0fdb203fd9728c357"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d26d262662b3aab7d5259feb805a4482a8022133"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "173b027024afc7b6e37b67fea1e25581babef7c2a54412ea041a221791340739"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7adcffdda1f910d3118763259faa518172de1c42"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "743c655cbd630ccb02772249ac91d43c1d1d4dbde78ff51fdfd150b8203f871a"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2f812865f208cdd7b2070468f85770b5621e404"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "43dbbaf99250c0ec94d84f2f41fbe1e18b8d27fa0122cfbbdb8d2707f93ddd9b"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+[[OWENSOpenFAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c57e5a0e28419769563679b79961da65c5306267"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[OWENSOpenFAST.download]]
+    sha256 = "c9de7b0f3d678ecd53a41e999ee9321ebf908a873baf48c331752c47c369e648"
+    url = "https://github.com/fredrikekre/OWENSOpenFast_jll.jl/releases/download/OWENSOpenFAST-v4.0.0-DEV.24c05a7+0/OWENSOpenFAST.v4.0.0-DEV.24c05a7.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
